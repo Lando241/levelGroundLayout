@@ -59,6 +59,10 @@ nav a {
   font-size: 1.4rem;
 }
 
+.nav-logo {
+  max-width: 4rem;
+}
+
 .nav-btn {
   background: #fff;
   color: #66768a;
